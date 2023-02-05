@@ -1,6 +1,6 @@
 ![logo](https://github.com/JeetVyas25/JeetVyas25/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Jeet Vyas</h1>
-<h3 align="center">A passionate full stack</h3>
+<h3 align="center">A passionate full stack developer</h3>
 
 <img src="https://user-images.githubusercontent.com/118108655/216850087-1644e04c-1b35-443e-951e-486b2397cd24.png" align="right" alt="techg" width="300">
 
