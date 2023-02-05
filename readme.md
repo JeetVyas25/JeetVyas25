@@ -1,3 +1,4 @@
+![logo](https://github.com/JeetVyas25/JeetVyas25/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Jeet Vyas</h1>
 <h3 align="center">A passionate full stack</h3>
 
