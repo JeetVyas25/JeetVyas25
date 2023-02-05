@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jeet Vyas</h1>
 <h3 align="center">A passionate full stack</h3>
 
-<img src="https://user-images.githubusercontent.com/118108655/216850087-1644e04c-1b35-443e-951e-486b2397cd24.png
-" align="right" alt="techg" width="500">
+<img src="https://user-images.githubusercontent.com/118108655/216850087-1644e04c-1b35-443e-951e-486b2397cd24.png" align="right" alt="techg" width="500">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeetvyas25&label=Profile%20views&color=0e75b6&style=flat" alt="jeetvyas25" /> </p>
