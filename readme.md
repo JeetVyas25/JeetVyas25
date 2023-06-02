@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **MERN STACK**
 
-- 📫 How to reach me **jeetv0702@gmail.com**
+- 📫 How to reach me **jeet.vyas.mec21@iitbhu.ac.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
