@@ -1,6 +1,6 @@
 ![logo](https://github.com/JeetVyas25/JeetVyas25/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Jeet Vyas</h1>
-<h3 align="center">A passionate full stack developer and a Machine Learning ethusiast</h3>
+<h3 align="center">A passionate full stack developer and a Machine Learning enthusiast</h3>
 
 <img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" align="right" alt="techg" width="300">
 
