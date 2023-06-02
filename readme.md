@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Indiiza tech team**
 
-- 🌱 I’m currently learning **UI / UX**
+- 🌱 I’m currently learning **UI / UX , Machine Learning / Deep Learning**
 
 - 💬 Ask me about **MERN STACK**
 
