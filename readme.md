@@ -16,10 +16,7 @@
 - 📫 How to reach me **jeet.vyas.mec21@iitbhu.ac.in**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jeet vyas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeet vyas" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/insynk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="insynk" height="30" width="40" /></a>
-</p>
+
 
 
 
